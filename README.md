@@ -25,7 +25,9 @@ Welcome to the launch-site wiki!
 * https://itkit.io/
 * http://startupresources.io
 * http://growthtools.io
-* https://www.prettyawesomelists.com
+
+[https://imgur.com/ZP5OdO9](https://www.prettyawesomelists.com)
+
 * [Glitch](https://glitch.com/)
 [Code 4 Startup](https://code4startup.com/)* 
 
