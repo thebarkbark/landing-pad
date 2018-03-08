@@ -1,5 +1,4 @@
-Welcome to the launch-site wiki!
-
+# Welcome to Barking Good Resources 
 
 ## Learning
 [Learn Aything](https://learn-anything.xyz)
