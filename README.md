@@ -4,7 +4,8 @@
 |   |   |   |
 |---|---|---|
 |[Adele](https://adele.uxpin.com)    |[Gitlogs](https://www.gitlogs.com/awesome-topics)   |[Athena](https://www.athena.cool/#)|
-|(Tcodina)[https://tcodina.com/exp/todo/]   | https://denysdovhan.com/spaceship-prompt/  |[Github Commit Emoji](https://gitmoji.carloscuesta.me)   |
+|[Tcodina](https://tcodina.com/exp/todo)|(spaceship-prompt)[https://denysdovhan.com/spaceship-prompt/] ||
+|*emoji*|[Github Commit Emoji](https://gitmoji.carloscuesta.me)   |[emoji css](https://afeld.github.io/emoji-css/)
 
 
 ### Favicons & Icons
