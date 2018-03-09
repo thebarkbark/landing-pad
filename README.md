@@ -5,15 +5,19 @@
 |---|---|---|
 |[Adele](https://adele.uxpin.com)    |[Gitlogs](https://www.gitlogs.com/awesome-topics)   |[Athena](https://www.athena.cool/#)|
 |[Tcodina](https://tcodina.com/exp/todo)|(spaceship-prompt)[https://denysdovhan.com/spaceship-prompt/] ||
-|*emoji*|[Github Commit Emoji](https://gitmoji.carloscuesta.me)   |[emoji css](https://afeld.github.io/emoji-css/)
-
+|[gh-emoji](https://zzarcon.github.io/gh-emoji/)|[Github Commit Emoji](https://gitmoji.carloscuesta.me)   |[emoji css](https://afeld.github.io/emoji-css/)
 
 ### Favicons & Icons
 * [Favicon Generator](https://realfavicongenerator.net)
 * [Icon bin](https://iconbin.com)
 * ![markdown favicon](https://raw.githubusercontent.com/mattcone/markdown-guide/master/favicon.ico)
 * [Flaticon](https://www.flaticon.com)
+* https://afeld.github.io/emoji-css/
+* https://emojibulletlist.com
 
+#### Read
+- https://hackernoon.com/github-labels-and-emojis-%EF%B8%8F%EF%B8%8F-9d5c351344bb 
+- https://help.github.com/articles/creating-a-label/
 
 ------------
 
