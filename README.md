@@ -12,8 +12,14 @@
 * [Code 4 startup](http://www.quickcode.co)
 
 ## Tools
-[Markdown Table generator](http://www.tablesgenerator.com/markdown_tables#), 
+#### Markdown
+[Markdown Table generator](http://www.tablesgenerator.com/markdown_tables#)
+
+#### Pretty Code 
 [Carbon - make code pretty](https://carbon.now.sh)
+
+#### Slack
+[Slack Themes](http://slackthemes.net)
 
 ## Resources
 * [Design Principles](https://principles.design)
