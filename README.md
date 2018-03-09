@@ -1,5 +1,7 @@
 # Welcome to Barking Good Resources 
 
+https://www.gitlogs.com/awesome-topics
+
 ## Learning
 [Learn Aything](https://learn-anything.xyz)
 [Pretty Awesome List](https://www.prettyawesomelists.com)
