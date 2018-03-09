@@ -4,18 +4,26 @@
 |   |   |   |
 |---|---|---|
 |[Adele](https://adele.uxpin.com)    |[Gitlogs](https://www.gitlogs.com/awesome-topics)   |[Athena](https://www.athena.cool/#)|
-|(Tcodina)[https://tcodina.com/exp/todo/]   | https://denysdovhan.com/spaceship-prompt/  |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+|(Tcodina)[https://tcodina.com/exp/todo/]   | https://denysdovhan.com/spaceship-prompt/  |[Github Commit Emoji](https://gitmoji.carloscuesta.me)   |
 
-### Favicons
-![markdown favicon](https://raw.githubusercontent.com/mattcone/markdown-guide/master/favicon.ico)
+
+### Favicons & Icons
+* [Favicon Generator](https://realfavicongenerator.net)
+* [Icon bin](https://iconbin.com)
+* ![markdown favicon](https://raw.githubusercontent.com/mattcone/markdown-guide/master/favicon.ico)
+* [Flaticon](https://www.flaticon.com)
+
+
 ------------
+
 
 ## Learning
 [Learn Aything](https://learn-anything.xyz)
 [Pretty Awesome List](https://www.prettyawesomelists.com)
+
+### Markdown
+[Markdown Guide](https://www.markdownguide.org)
+
 
 ### Programming
 * [Learn Code the Hardway](https://learncodethehardway.org/)
