@@ -2,6 +2,7 @@
 
 ## Learning
 [Learn Aything](https://learn-anything.xyz)
+[Pretty Awesome List](https://www.prettyawesomelists.com)
 
 ### Programming
 * [Learn Code the Hardway](https://learncodethehardway.org/)
@@ -9,6 +10,10 @@
 * http://www.quickcode.co
 * [30 seconds of code](https://30secondsofcode.org)
 * [Code 4 startup](http://www.quickcode.co)
+
+## Tools
+[Markdown Table generator](http://www.tablesgenerator.com/markdown_tables#), 
+[Carbon - make code pretty](https://carbon.now.sh)
 
 ## Resources
 * [Design Principles](https://principles.design)
