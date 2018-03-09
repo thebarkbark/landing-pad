@@ -1,6 +1,17 @@
 # Welcome to Barking Good Resources 
 
-https://www.gitlogs.com/awesome-topics
+### New stuff
+|   |   |   |
+|---|---|---|
+|[Adele](https://adele.uxpin.com)    |[Gitlogs](https://www.gitlogs.com/awesome-topics)   |[Athena](https://www.athena.cool/#)|
+|(Tcodina)[https://tcodina.com/exp/todo/]   | https://denysdovhan.com/spaceship-prompt/  |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+
+### Favicons
+![markdown favicon](https://raw.githubusercontent.com/mattcone/markdown-guide/master/favicon.ico)
+------------
 
 ## Learning
 [Learn Aything](https://learn-anything.xyz)
