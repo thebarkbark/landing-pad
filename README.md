@@ -1,5 +1,7 @@
 # Welcome to Barking Good Resources 
 
+https://devhints.io/
+
 ### New stuff
 |   |   |   |
 |---|---|---|
