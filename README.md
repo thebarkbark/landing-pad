@@ -3,9 +3,7 @@
 ### New stuff
 |   |   |   |
 |---|---|---|
-|[Adele](https://adele.uxpin.com)    |[Gitlogs](https://www.gitlogs.com/awesome-topics)   |[Athena](https://www.athena.cool/#)|
-|[Tcodina](https://tcodina.com/exp/todo)|(spaceship-prompt)[https://denysdovhan.com/spaceship-prompt/] ||
-|[gh-emoji](https://zzarcon.github.io/gh-emoji/)|[Github Commit Emoji](https://gitmoji.carloscuesta.me)   |[emoji css](https://afeld.github.io/emoji-css/)
+|[Adele](https://adele.uxpin.com)[Gitlogs](https://www.gitlogs.com/awesome-topics)|[Athena](https://www.athena.cool/#)|[Tcodina](https://tcodina.com/exp/todo)|(spaceship-prompt)[https://denysdovhan.com/spaceship-prompt/]|[gh-emoji](https://zzarcon.github.io/gh-emoji/)|[Github Commit Emoji](https://gitmoji.carloscuesta.me)|[emoji css](https://afeld.github.io/emoji-css/)|
 
 ### Favicons & Icons
 * [Favicon Generator](https://realfavicongenerator.net)
