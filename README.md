@@ -1,7 +1,7 @@
 # Welcome to Barking Good Resources 
 
 https://devhints.io/
-
+https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md
 ### New stuff
 |   |   |   |
 |---|---|---|
