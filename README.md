@@ -2,11 +2,11 @@
 
 [PrivacyTools.io](https://www.privacytools.io)
 
-https://ghostbin.com/
+(GhostBin)[https://ghostbin.com]
 
-https://codepen.io
+(CodePen)[https://codepen.io]
 
-https://devhints.io/
+[DevHints](https://devhints.io/
 
 https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md
 ### New stuff
