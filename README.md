@@ -6,9 +6,10 @@
 
 [CodePen](https://codepen.io)
 
-[DevHints](https://devhints.io/
+[DevHints](https://devhints.io/)
 
 https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md
+
 ### New stuff
 |   |   |   |
 |---|---|---|
@@ -40,7 +41,7 @@ https://github.com/EbookFoundation/free-programming-books/blob/master/free-progr
 ### Programming
 * [Learn Code the Hardway](https://learncodethehardway.org/)
 * [Invent with Python](http://inventwithpython.com)
-* http://www.quickcode.co
+* [Quick Code](http://www.quickcode.co)
 * [30 seconds of code](https://30secondsofcode.org)
 * [Code 4 startup](http://www.quickcode.co)
 
