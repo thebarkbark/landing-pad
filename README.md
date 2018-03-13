@@ -2,9 +2,9 @@
 
 [PrivacyTools.io](https://www.privacytools.io)
 
-(GhostBin)[https://ghostbin.com]
+[GhostBin](https://ghostbin.com)
 
-(CodePen)[https://codepen.io]
+[CodePen](https://codepen.io)
 
 [DevHints](https://devhints.io/
 
