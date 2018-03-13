@@ -71,7 +71,7 @@ https://github.com/EbookFoundation/free-programming-books/blob/master/free-progr
 * http://growthtools.io
 * https://www.prettyawesomelists.com)
 * [Glitch](https://glitch.com/)
-[Code 4 Startup](https://code4startup.com/)* 
+* [Code 4 Startup](https://code4startup.com/) 
 
 ## Other
-(Work In Progress)[https://wip.chat]
+[Work In Progress](https://wip.chat)
