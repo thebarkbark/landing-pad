@@ -1,16 +1,19 @@
 <link rel="shortcut icon" href="https://avatars1.githubusercontent.com/u/37028298?s=200&v=4" type="image/x-icon" />
 # This is some Barking Good Shit
 
-[PrivacyTools.io](https://www.privacytools.io)
 
-[GhostBin](https://ghostbin.com)
+#### Read
+* [Hackernoon Github Labels](https://hackernoon.com/github-labels-and-emojis-%EF%B8%8F%EF%B8%8F-9d5c351344bb)
+*[https://help.github.com/articles/creating-a-label/
+* [Githow](https://githowto.com)
 
-[CodePen](https://codepen.io)
+##Good stuff
+* [GhostBin](https://ghostbin.com)
+* [CodePen](https://codepen.io)
+* [DevHints](https://devhints.io/)
+* https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md
 
-[DevHints](https://devhints.io/)
-
-https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md
-
+*[moon jekyll theme](https://taylantatli.github.io/Moon/moon-theme/)
 ### New stuff
 |   |   |   |
 |---|---|---|
@@ -24,12 +27,20 @@ https://github.com/EbookFoundation/free-programming-books/blob/master/free-progr
 * https://afeld.github.io/emoji-css/
 * https://emojibulletlist.com
 
-#### Read
-- https://hackernoon.com/github-labels-and-emojis-%EF%B8%8F%EF%B8%8F-9d5c351344bb 
-- https://help.github.com/articles/creating-a-label/
+#### Emoji
+* [Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
+* [Gitmoji](https://gitmoji.carloscuesta.me/): an emoji guide for commit messages
+* [Github Commit Message by Scotch.io](https://scotch.io/bar-talk/emoji-icons-in-github-commit-messages)
+
 
 ------------
-
+# Cheat Sheets 
+:fire:
+|   |   |   |
+|:-:|---|---|
+|* [Assemble Markdown sheet](http://assemble.io/docs/Cheatsheet-Markdown.html)|   |   |
+|   |   |   |
+|   |   |   |
 
 ## Learning
 [Learn Aything](https://learn-anything.xyz)
@@ -46,7 +57,6 @@ https://github.com/EbookFoundation/free-programming-books/blob/master/free-progr
 * [30 seconds of code](https://30secondsofcode.org)
 * [Code 4 startup](http://www.quickcode.co)
 
-## Tools
 #### Markdown
 [Markdown Table generator](http://www.tablesgenerator.com/markdown_tables#)
 
@@ -77,3 +87,6 @@ https://github.com/EbookFoundation/free-programming-books/blob/master/free-progr
 
 ## Other
 [Work In Progress](https://wip.chat)
+
+### Privacy :lock:
+* [PrivacyTools.io](https://www.privacytools.io)
