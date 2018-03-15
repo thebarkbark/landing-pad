@@ -1,5 +1,5 @@
 # This is some Barking Good Shit
-![favicon](https://avatars1.githubusercontent.com/u/37028298?s=200&v=4)
+![favicon](https://avatars1.githubusercontent.com/u/37028298?s=200&v=4 height="38px" width="38px")
 #### Read 
 * [Hackernoon Github Labels](https://hackernoon.com/github-labels-and-emojis-%EF%B8%8F%EF%B8%8F-9d5c351344bb)
 *[https://help.github.com/articles/creating-a-label/
