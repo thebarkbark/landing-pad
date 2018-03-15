@@ -1,13 +1,15 @@
 <link rel="shortcut icon" href="https://avatars1.githubusercontent.com/u/37028298?s=200&v=4" type="image/x-icon" />
 # This is some Barking Good Shit
 
-
-#### Read
+#### Read 
 * [Hackernoon Github Labels](https://hackernoon.com/github-labels-and-emojis-%EF%B8%8F%EF%B8%8F-9d5c351344bb)
 *[https://help.github.com/articles/creating-a-label/
 * [Githow](https://githowto.com)
 
-##Good stuff
+**How to Git/Github**
+* [gitkraken info](https://support.gitkraken.com/working-with-commits/staging)
+
+### Good stuff
 * [GhostBin](https://ghostbin.com)
 * [CodePen](https://codepen.io)
 * [DevHints](https://devhints.io/)
@@ -32,23 +34,15 @@
 * [Gitmoji](https://gitmoji.carloscuesta.me/): an emoji guide for commit messages
 * [Github Commit Message by Scotch.io](https://scotch.io/bar-talk/emoji-icons-in-github-commit-messages)
 
+|Markdown|Github|Other|
+|---|---|---|
+|[Assemble Markdown sheet](http://assemble.io/docs/Cheatsheet-Markdown.html)|[Markdown Guide](https://www.markdownguide.org)|x|
+|blooop|bloop|bloop|
 
-------------
-# Cheat Sheets 
-:fire:
-|   |   |   |
-|:-:|---|---|
-|* [Assemble Markdown sheet](http://assemble.io/docs/Cheatsheet-Markdown.html)|   |   |
-|   |   |   |
-|   |   |   |
 
-## Learning
+### Learning
 [Learn Aything](https://learn-anything.xyz)
 [Pretty Awesome List](https://www.prettyawesomelists.com)
-
-### Markdown
-[Markdown Guide](https://www.markdownguide.org)
-
 
 ### Programming
 * [Learn Code the Hardway](https://learncodethehardway.org/)
