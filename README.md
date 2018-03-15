@@ -1,5 +1,5 @@
 <link rel="shortcut icon" href="https://avatars1.githubusercontent.com/u/37028298?s=200&v=4" type="image/x-icon" />
-# Welcome to Barking Good Resources 
+# This is some Barking Good Shit
 
 [PrivacyTools.io](https://www.privacytools.io)
 
