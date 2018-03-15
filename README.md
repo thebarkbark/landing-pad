@@ -1,6 +1,5 @@
-<link rel="shortcut icon" href="https://avatars1.githubusercontent.com/u/37028298?s=200&v=4" type="image/x-icon" />
 # This is some Barking Good Shit
-
+![favicon](https://avatars1.githubusercontent.com/u/37028298?s=200&v=4)
 #### Read 
 * [Hackernoon Github Labels](https://hackernoon.com/github-labels-and-emojis-%EF%B8%8F%EF%B8%8F-9d5c351344bb)
 *[https://help.github.com/articles/creating-a-label/
