@@ -66,23 +66,12 @@
 [Slack Themes](http://slackthemes.net)
 
 ## Resources
-* [Design Principles](https://principles.design)
-* [Adele](https://adele.uxpin.com/) a repository for publicly available design systems and pattern libraries
-* https://siftery.com
-* https://founderkit.com
-* https://techlookup.hunter.io
-* http://startupstash.com/
-* http://makerbook.net/
-* https://www.productmanual.co
-* http://growthsupply.com
-* https://startupstack.io/
-* https://itkit.io/
-* http://startupresources.io
-* http://growthtools.io
-* https://www.prettyawesomelists.com)
-* [Glitch](https://glitch.com/)
-* [Code 4 Startup](https://code4startup.com/) 
-* [Work In Progress](https://wip.chat)
+|1|2|3|4|
+|--|--|--|--|
+|[Design Principles](https://principles.design)|[Adele](https://adele.uxpin.com/)|https://siftery.com|[FoundersKit\](https://founderkit.com)|
+|https://techlookup.hunter.io|* http://startupstash.com/|http://makerbook.net/|https://www.productmanual.co|
+|http://growthsupply.com|https://startupstack.io/|https://itkit.io/|* http://startupresources.io|
+|http://growthtools.io|https://www.prettyawesomelists.com)|[Glitch](https://glitch.com/)|[Code 4 Startup](https://code4startup.com/)|[Work In Progress](https://wip.chat)|
 
 #### Tools
 * Privacy :lock:
