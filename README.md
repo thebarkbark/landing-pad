@@ -1,12 +1,15 @@
 # This is some Barking Good Shit
 ![favicon](https://avatars1.githubusercontent.com/u/37028298?s=200&v=4)
-#### Read 
-* [Hackernoon Github Labels](https://hackernoon.com/github-labels-and-emojis-%EF%B8%8F%EF%B8%8F-9d5c351344bb)
-*[https://help.github.com/articles/creating-a-label/
-* [Githow](https://githowto.com)
+
+**Read** 
+:greenbook:
+- [ ] [Hackernoon: Github Labels](https://hackernoon.com/github-labels-and-emojis-%EF%B8%8F%EF%B8%8F-9d5c351344bb)
+- [ ] [github Labels by Github](https://help.github.com/articles/creating-a-label/)
+- [ ] [Githow](https://githowto.com)
 
 **How to Git/Github**
 * [gitkraken info](https://support.gitkraken.com/working-with-commits/staging)
+* [Githow](https://githowto.com)
 
 ### Good stuff
 * [GhostBin](https://ghostbin.com)
@@ -27,6 +30,7 @@
 * [Flaticon](https://www.flaticon.com)
 * https://afeld.github.io/emoji-css/
 * https://emojibulletlist.com
+* 
 
 #### Emoji
 * [Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
