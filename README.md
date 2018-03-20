@@ -68,10 +68,10 @@
 ## Resources
 |1|2|3|4|
 |--|--|--|--|
-|[Design Principles](https://principles.design)|[Adele](https://adele.uxpin.com/)|https://siftery.com|[FoundersKit\](https://founderkit.com)|
-|https://techlookup.hunter.io|* http://startupstash.com/|http://makerbook.net/|https://www.productmanual.co|
-|http://growthsupply.com|https://startupstack.io/|https://itkit.io/|* http://startupresources.io|
-|http://growthtools.io|https://www.prettyawesomelists.com)|[Glitch](https://glitch.com/)|[Code 4 Startup](https://code4startup.com/)|[Work In Progress](https://wip.chat)|
+|[Design Principles](https://principles.design)|[Adele](https://adele.uxpin.com/)|[Siftery](https://siftery.com)|[FoundersKit](https://founderkit.com)|
+|https://techlookup.hunter.io|[Startup Stash](http://startupstash.com/)|[MakerBook](http://makerbook.net)|[Product Manual](https://www.productmanual.co)|
+|[Growth Supply](http://growthsupply.com)|[StartupStack](https://startupstack.io)|[it Kit](https://itkit.io/)|[Startup Resources](http://startupresources.io)|
+|[Growth Tools](http://growthtools.io)|[PAL](https://www.prettyawesomelists.com)|[Glitch](https://glitch.com/)|[Code 4 Startup](https://code4startup.com/)|[Work In Progress](https://wip.chat)|
 
 #### Tools
 * Privacy :lock:
