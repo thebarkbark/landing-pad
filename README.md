@@ -82,14 +82,13 @@
 * https://www.prettyawesomelists.com)
 * [Glitch](https://glitch.com/)
 * [Code 4 Startup](https://code4startup.com/) 
+* [Work In Progress](https://wip.chat)
 
-## Other
-[Work In Progress](https://wip.chat)
-
-### Privacy :lock:
-* [PrivacyTools.io](https://www.privacytools.io)
+#### Tools
+* Privacy :lock:
+** [PrivacyTools.io](https://www.privacytools.io)
 
 
-2018-03-20 ** FINDS**
+## 2018-03-20 **Today's new sites**
 [Tota11ly](https://khan.github.io/tota11y)
 
