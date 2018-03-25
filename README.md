@@ -32,7 +32,8 @@
 * https://afeld.github.io/emoji-css/
 * https://emojibulletlist.com
 * 
-
+### Desktop Wallpaper Sites
+* [Simple Desktops](http://simpledesktops.com/)
 #### Emoji
 * [Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 * [Gitmoji](https://gitmoji.carloscuesta.me/): an emoji guide for commit messages
