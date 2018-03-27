@@ -1,3 +1,5 @@
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+
 # This is some Barking Good Shit
 
 [![TheBark-Build Things](https://i.imgur.com/8eHXNMd.png)](https://thebark.github.io/buildthings/)
