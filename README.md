@@ -1,6 +1,8 @@
 # This is some Barking Good Shit
 
-👻👩‍🏭
+`BarkHouse Blogs 🐾` 
+
+👻😻
 
 
 **Read** 
@@ -34,6 +36,8 @@
 * [Flaticon](https://www.flaticon.com)
 * https://afeld.github.io/emoji-css/
 * https://emojibulletlist.com
+
+🐾 `:feet:`
 * 
 
 #### Emoji
