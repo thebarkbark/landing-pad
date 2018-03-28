@@ -1,21 +1,4 @@
-<link rel="icon" type="image/png" sizes="16x16" "href=https://raw.githubusercontent.com/thebarkbark/Barking-Good-Resources/master/media/theBark-house-icons/favicon-96x96.png">
-
-# This is some Barking  Good Shit [![TheBark-Build Things](https://i.imgur.com/8eHXNMd.png)](https://thebark.github.io/buildthings/)
-
-`BarkHouse Blogs 🐾` 
-
-
-👻😻
-
-
-**Read** 
-- [ ] [Hackernoon: Github Labels](https://hackernoon.com/github-labels-and-emojis-%EF%B8%8F%EF%B8%8F-9d5c351344bb)
-- [ ] [github Labels by Github](https://help.github.com/articles/creating-a-label/)
-- [ ] [Githow](https://githowto.com)
-
-**How to Git/Github**
-* [gitkraken info](https://support.gitkraken.com/working-with-commits/staging)
-* [Githow](https://githowto.com)
+# This is some Barking  Good Shit [![TheBark-Build Things](https://i.imgur.com/8eHXNMd.png)](https://thebark.github.io/buildthings/) `BarkHouse Blogs 🐾` 
 
 ### Good stuff
 * [GhostBin](https://ghostbin.com)
@@ -38,7 +21,7 @@
 * https://afeld.github.io/emoji-css/
 * https://emojibulletlist.com
 
-🐾 `:feet:`
+
 * 
 ### Desktop Wallpaper Sites
 * [Simple Desktops](http://simpledesktops.com/)
@@ -51,6 +34,7 @@
 |---|---|---|
 |[Assemble Markdown sheet](http://assemble.io/docs/Cheatsheet-Markdown.html)|[Markdown Guide](https://www.markdownguide.org)|x|
 |blooop|bloop|bloop|
+|[gitkraken info](https://support.gitkraken.com/working-with-commits/staging)|[Githow](https://githowto.com)|
 
 
 ### Learning
@@ -91,3 +75,5 @@
 [Tota11ly](https://khan.github.io/tota11y)
 
 ![favicon](https://avatars1.githubusercontent.com/u/37028298?s=200&v=4)
+
+🐾 `:feet:`
