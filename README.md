@@ -1,5 +1,12 @@
 # This is some Barking  Good Shit [![TheBark-Build Things](https://i.imgur.com/8eHXNMd.png)](https://thebark.github.io/buildthings/) `BarkHouse Blogs 🐾` 
 
+
+Sites
+
+
+
+-----------
+
 ### Good stuff
 * [GhostBin](https://ghostbin.com)
 * [CodePen](https://codepen.io)
@@ -13,13 +20,11 @@
 |[Adele](https://adele.uxpin.com)[Gitlogs](https://www.gitlogs.com/awesome-topics)|[Athena](https://www.athena.cool/#)|[Tcodina](https://tcodina.com/exp/todo)|(spaceship-prompt)[https://denysdovhan.com/spaceship-prompt/]|[gh-emoji](https://zzarcon.github.io/gh-emoji/)|[Github Commit Emoji](https://gitmoji.carloscuesta.me)|[emoji css](https://afeld.github.io/emoji-css/)|
 
 ### Favicons & Icons
-* [Get Emoji](https://getemoji.com/)
-* [Favicon Generator](https://realfavicongenerator.net)
-* [Icon bin](https://iconbin.com)
-* ![markdown favicon](https://raw.githubusercontent.com/mattcone/markdown-guide/master/favicon.ico)
-* [Flaticon](https://www.flaticon.com)
-* https://afeld.github.io/emoji-css/
-* https://emojibulletlist.com
+|   Emoji   |   x   |   x   |
+|-----------|:------|------:|
+|[Get Emoji](https://getemoji.com/)|[Favicon Generator](https://realfavicongenerator.net)|[Icon bin](https://iconbin.com)|
+|![markdown favicon](https://raw.githubusercontent.com/mattcone/markdown-guide/master/favicon.ico)|[Flaticon](https://www.flaticon.com)|https://afeld.github.io/emoji-css/|
+|https://emojibulletlist.com|
 
 
 * 
